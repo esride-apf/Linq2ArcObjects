@@ -18,4 +18,4 @@ The same with a lambda expression:
 
 This prototype has also some unit test to show you the usage of the constructs.
 
-The whole documentation you could read in the wiki here.
+The whole documentation you could read in the wiki [here](https://github.com/esride-apf/Linq2ArcObjects/wiki).
